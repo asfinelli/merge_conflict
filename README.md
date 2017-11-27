@@ -1,2 +1,1 @@
-Hello World
-Hello Wyncode
+Hello Wyncode World
